@@ -18,3 +18,4 @@ def counter(number):
         print(factorial)
         
 counter(nums)
+
